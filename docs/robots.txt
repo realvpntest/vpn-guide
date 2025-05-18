@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://realvpntest.github.io/vpn-guide/sitemap.xml

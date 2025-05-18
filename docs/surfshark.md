@@ -43,7 +43,6 @@ We ran [Surfshark](https://get.surfshark.net/aff_c?offer_id=926&aff_id=38237) wi
 | UK – London      | 597              | 81             | 26         |
 | Japan – Tokyo    | 460              | 75             | 92         |
 
-> 📸 **[Insert Image: Speedtest.net Results Screenshots from 3 Regions]**
 
 ---
 

@@ -127,3 +127,7 @@ Got something to say?
 We’re all ears—submit a GitHub issue or send a pull request!
 
 ---
+
+If this project helped you choose the right VPN, giving a ⭐️ would mean a lot. Thanks for your support!
+
+---

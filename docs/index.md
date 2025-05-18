@@ -134,3 +134,13 @@ We’re all ears—submit a GitHub issue or send a pull request!
 If this project helped you choose the right VPN, giving a ⭐️ would mean a lot. Thanks for your support!
 
 ---
+
+ <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2C612EH7ZD"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-2C612EH7ZD');
+    </script>

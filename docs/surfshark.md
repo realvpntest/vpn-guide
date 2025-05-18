@@ -167,3 +167,8 @@ Definitely — low latency and solid server speeds.
 👉 [The $1.99/month 2-year + 3-month free plan](https://get.surfshark.net/aff_c?offer_id=926&aff_id=38237)
 
 ---
+
+📁 [👉 Guide Page](https://realvpntest.github.io/vpn-guide/)
+
+
+---

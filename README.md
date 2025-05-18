@@ -7,11 +7,12 @@ Welcome to our hub of VPN reviews! Here, you’ll discover **genuine test result
 ## 📚 Table of Contents
 
 - [✅ Why Trust Us: 100% Real Testing](#why)  
-- [🌍 What is a VPN?](#what)  
+- [🌍 What is a VPN?](#whatvpn?)  
 - [👥 Who Needs a VPN & When to Use It?](#who)  
 - [🔍 Get Started Now](#start)  
 
 ---
+
 <a id="why"></a>
 ## ✅ Why Trust Us: 100% Real Testing
 
@@ -28,7 +29,9 @@ Here’s what we dig into:
 - Direct experiences with customer support and refund procedures  
 
 ---
-<a id="what"></a>
+
+<a id="whatvpn"></a>
+
 ## 🌍 What is a VPN?
 
 A VPN (Virtual Private Network) helps create a **secure, encrypted tunnel between your device and the internet**, shielding your activity and unlocking content from around the world.

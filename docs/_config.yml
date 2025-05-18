@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 title: Best VPNs in 2025 – Real-World Testing
 description: Hands-on VPN reviews with real-world testing. Discover the best VPNs for streaming, gaming, privacy, and global access—updated for 2025.
+url: "https://realvpntest.github.io/"
+baseurl: "/vpn-guide"
+google_analytics: G-2C612EH7ZD
 plugins:
   - jekyll-seo-tag
 

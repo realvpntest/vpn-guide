@@ -8,5 +8,12 @@
     <priority>1.0</priority>
   </url>
 
+  <url>
+    <loc>https://realvpntest.github.io/vpn-guide/surfshark/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
 
 </urlset>

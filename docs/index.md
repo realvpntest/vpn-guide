@@ -144,3 +144,5 @@ If this project helped you choose the right VPN, giving a ⭐️ would mean a lo
 
         gtag('config', 'G-2C612EH7ZD');
     </script>
+
+---

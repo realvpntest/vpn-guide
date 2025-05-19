@@ -4,5 +4,8 @@ description: Hands-on VPN reviews with real-world testing. Discover the best VPN
 url: "https://realvpntest.github.io"
 baseurl: "/vpn-guide"
 google_analytics: G-2C612EH7ZD
-
+plugins:
+  - jekyll-seo-tag
+github:
+  is_project_page: true
 

@@ -15,5 +15,12 @@
     <priority>0.9</priority>
   </url>
 
+  <url>
+    <loc>https://realvpntest.github.io/vpn-guide/nordvpn/</loc>
+    <lastmod>2025-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
 
 </urlset>

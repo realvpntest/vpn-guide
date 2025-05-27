@@ -111,14 +111,14 @@ Here’s how it stacked up when trying to access major platforms from different 
 
 ### 🌐 Regional Streaming Accessibility
 
-| 🌍 Region     | 🎬 Netflix | 🎞️ Disney+ | 📦 Amazon Prime | 📺 YouTube Premium | 🎵 Spotify | 🤖 ChatGPT | 🧠 Claude | 🌐 Google Gemini |
-|--------------|------------|------------|------------------|---------------------|------------|------------|------------|-------------------|
-| 🇨🇦 **Canada** | ✅ Yes (CA) | ✅ Yes     | ✅ Yes           | ✅ Yes              | ❌ No      | ✅ Yes     | ❌ No      | ✅ Yes            |
-| 🇯🇵 **Japan**  | ✅ Yes (JP) | ✅ Yes     | ✅ Yes           | ✅ Yes              | ❌ No      | ✅ Yes     | ❌ No      | ✅ Yes            |
-| 🇬🇧 **UK**     | ✅ Yes (GB) | ✅ Yes     | ✅ Yes           | ✅ Yes              | ❌ No      | ✅ Yes     | ❌ No      | ❌ No             |
+| 🌍 Region     | 🎬 Netflix | 🎞️ Disney+ | 📦 Amazon Prime | 📺 YouTube Premium | 🤖 ChatGPT  | 🌐 Google Gemini |
+|--------------|------------|------------|------------------|---------------------|-----------|------------------|
+| 🇨🇦 **Canada** | ✅ Yes (CA) | ✅ Yes     | ✅ Yes           | ✅ Yes              | ✅ Yes     | ✅ Yes            |
+| 🇯🇵 **Japan**  | ✅ Yes (JP) | ✅ Yes     | ✅ Yes           | ✅ Yes              | ✅ Yes     |  ✅ Yes           |
+| 🇬🇧 **UK**     | ✅ Yes (GB) | ✅ Yes     | ✅ Yes           | ✅ Yes              |  ✅ Yes     | ❌ No             |
 
 > ✅ **Unlocked Successfully**: Surfshark managed to get around geo-blocks for **Netflix**, **Disney+**, **Amazon Prime Video**, and **YouTube Premium** in every location tested.  
-> ❌ **Limitations Noted**: **Spotify** sign-ups and **Claude AI** couldn’t be accessed anywhere. **Google Gemini** worked only in Canada and Japan, but not in the UK.
+> ❌ **Limitations Noted**:  **Google Gemini** worked only in Canada and Japan, but not in the UK.
 
 ---
 
@@ -425,7 +425,7 @@ You sure can. One account covers them all.
 Not exactly, but there’s a **30-day refund window**.
 
 **5. Is Surfshark good for gaming?**  
-Definitely — low latency and solid server speeds.
+**Surfshark handles most online games well**, especially **MMORPGs**, **strategy games**, and **PvE** modes.
 
 **6. What’s the best Surfshark deal?**  
 👉 The $1.99/month 2-year + 3-month free plan

@@ -119,10 +119,18 @@ Ready to explore? Start with our in-depth VPN reviews:
 
 <p style="margin-top: 20px;">
   <a href="https://realvpntest.github.io/vpn-guide/surfshark" 
-     style="display: inline-block; padding: 10px 18px; background-color: #1E88E5; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">
+     style="display: inline-block; padding: 10px 18px; background-color: #1976D2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">
     👉 Best Value VPN in 2025 — Click to View Full Review
   </a>
 </p>
+
+<p style="margin-top: 20px;">
+  <a href="https://realvpntest.github.io/vpn-guide/nordvpn" 
+     style="display: inline-block; padding: 10px 18px; background-color: #1976D2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    👉 Is NordVPN Still the Best VPN in 2025? A Comprehensive Review
+  </a>
+</p>
+
 
 
 📁 **More reviews coming soon...**  

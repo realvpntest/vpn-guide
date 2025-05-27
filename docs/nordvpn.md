@@ -272,15 +272,15 @@ NordVPN continues to set the standard for online security and privacy in 2025, o
 
 ### 🧬 Post-Quantum Encryption (PQE)
 
-Anticipating future threats posed by quantum computing, NordVPN has introduced Post-Quantum Encryption across all platforms, including Windows, macOS, iOS, Android, and smart TVs. This advanced encryption is available when using the NordLynx protocol, NordVPN’s proprietary protocol based on WireGuard. PQE enhances long-term data security by employing complex mathematical techniques resistant to quantum decryption. Users can activate PQE via a toggle in the app’s settings. :contentReference[oaicite:5]{index=5}
+Anticipating future threats posed by quantum computing, NordVPN has introduced Post-Quantum Encryption across all platforms, including Windows, macOS, iOS, Android, and smart TVs. This advanced encryption is available when using the NordLynx protocol, NordVPN’s proprietary protocol based on WireGuard. PQE enhances long-term data security by employing complex mathematical techniques resistant to quantum decryption. Users can activate PQE via a toggle in the app’s settings. 
 
 ### 🛡️ Threat Protection Pro™
 
-NordVPN's Threat Protection Pro™ offers robust defense against online threats. This feature blocks phishing attempts, malware, trackers, and intrusive ads without compromising connection speeds. It has been certified by AV-Comparatives and AV-Test as a reliable anti-phishing and anti-malware solution, making NordVPN the first VPN to receive such attestations. :contentReference[oaicite:6]{index=6}
+NordVPN's Threat Protection Pro™ offers robust defense against online threats. This feature blocks phishing attempts, malware, trackers, and intrusive ads without compromising connection speeds. It has been certified by AV-Comparatives and AV-Test as a reliable anti-phishing and anti-malware solution, making NordVPN the first VPN to receive such attestations.
 
 ### 🧾 Independently Audited No-Logs Policy
 
-NordVPN maintains a strict no-logs policy, ensuring that user activity is not tracked, collected, or shared. This commitment to privacy has been independently verified through multiple audits by reputable firms, including PricewaterhouseCoopers AG Switzerland and Deloitte, confirming NordVPN's adherence to its no-logs claims. :contentReference[oaicite:7]{index=7}
+NordVPN maintains a strict no-logs policy, ensuring that user activity is not tracked, collected, or shared. This commitment to privacy has been independently verified through multiple audits by reputable firms, including PricewaterhouseCoopers AG Switzerland and Deloitte, confirming NordVPN's adherence to its no-logs claims. 
 
 ### 🧠 RAM-Only Servers
 

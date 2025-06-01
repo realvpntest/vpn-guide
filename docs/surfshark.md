@@ -40,6 +40,8 @@ In this review, we’ll break down **why Surfshark stands out as the best value 
   </a>
 </p>
 
+> Note: All my testing was done at my home in Los Angeles.
+
 ---
 
 <a id="why"></a>

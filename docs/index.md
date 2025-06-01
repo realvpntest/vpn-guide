@@ -118,16 +118,23 @@ VPNs aren’t just for tech enthusiasts. Millions now rely on them daily. Here's
 Ready to explore? Start with our in-depth VPN reviews:
 
 <p style="margin-top: 20px;">
-  <a href="https://realvpntest.github.io/vpn-guide/surfshark" 
+  <a href="https://realvpntest.github.io/vpn-guide/surfshark/" 
      style="display: inline-block; padding: 10px 18px; background-color: #1976D2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">
     👉 Best Value VPN in 2025 — Click to View Full Review
   </a>
 </p>
 
 <p style="margin-top: 20px;">
-  <a href="https://realvpntest.github.io/vpn-guide/nordvpn" 
+  <a href="https://realvpntest.github.io/vpn-guide/nordvpn/" 
      style="display: inline-block; padding: 10px 18px; background-color: #1976D2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">
     👉 Is NordVPN Still the Best VPN in 2025? A Comprehensive Review
+  </a>
+</p>
+
+<p style="margin-top: 20px;">
+  <a href="https://realvpntest.github.io/vpn-guide/purevpn/" 
+     style="display: inline-block; padding: 10px 18px; background-color: #1976D2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    👉 PureVPN's 2025 Capabilities Explored | Streaming, Speed, and Security
   </a>
 </p>
 

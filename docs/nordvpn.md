@@ -37,6 +37,8 @@ NordVPN proves to be a reliable and powerful choice. Let's dive into what makes 
   </a>
 </p>
 
+> Note: All my testing was done at my home in Los Angeles.
+
 ---
 <a id="why"></a>
 ## 💡 Why Is NordVPN the Best VPN?

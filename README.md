@@ -128,6 +128,13 @@ Ready to explore? Start with our in-depth VPN reviews:
   </a>
 </p>
 
+<p style="margin-top: 20px;">
+  <a href="https://realvpntest.github.io/vpn-guide/purevpn/" 
+     style="display: inline-block; padding: 10px 18px; background-color: #1976D2; color: #fff; text-decoration: none; border-radius: 6px; font-weight: bold;">
+    👉 PureVPN's 2025 Capabilities Explored | Streaming, Speed, and Security
+  </a>
+</p>
+
 
 📁 **More reviews coming soon...**  
 We’re just getting started — stay tuned for upcoming in-depth tests on NordVPN, ExpressVPN, and more!

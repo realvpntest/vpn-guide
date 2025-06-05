@@ -5,7 +5,7 @@ permalink: /protonvpn/
 ---
 
 
-# The Most Secure Free VPN Service: Proton VPN
+## The Most Secure Free VPN Service: Proton VPN
 
 
 ## Table of Contents
